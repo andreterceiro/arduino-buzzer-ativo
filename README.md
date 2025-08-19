@@ -29,4 +29,4 @@ This code is to an **active** buzzer.
 - "S": Arduino port 8;
 - Unlabeled: Arduino +3.3V or Arduino +5V
 
-With the code 
+With the code of index.ino, the buzzer have to emmit an oscilating sound.
